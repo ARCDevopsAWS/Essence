@@ -1,0 +1,18 @@
+Git:
+>Create git account through www.github.com
+>create repository (public)
+>create one ec2 instance to run the repository
+>login into Linux machine
+>install git
+>configurate git
+ 
+Git commands:
+git commands start with git 
+>> git init
+>> git status
+>> git add
+>> git show
+>> git log
+>> git push
+>> git commit
+>> git config
